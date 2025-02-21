@@ -1,0 +1,12 @@
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\bin\Debug\net8.0\SerialPortFluentAPILib.deps.json
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\bin\Debug\net8.0\SerialPortFluentAPILib.dll
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\bin\Debug\net8.0\SerialPortFluentAPILib.pdb
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.csproj.AssemblyReference.cache
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.AssemblyInfoInputs.cache
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.AssemblyInfo.cs
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.csproj.CoreCompileInputs.cache
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.dll
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\refint\SerialPortFluentAPILib.dll
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\SerialPortFluentAPILib.pdb
+C:\Users\elifa\source\repos\SerialPortFluentAPILib\obj\Debug\net8.0\ref\SerialPortFluentAPILib.dll
